@@ -25,9 +25,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gprimeltexx/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
     vendor/samsung/gprimeltexx/proprietary/etc/calib_SI_matrix_data_file.dat:system/etc/calib_SI_matrix_data_file.dat \
     vendor/samsung/gprimeltexx/proprietary/etc/sec_s3fwrn5_rfreg.bin:system/etc/sec_s3fwrn5_rfreg.bin \
-    vendor/samsung/gprimeltexx/proprietary/lib/hw/camera.vendor.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
-    vendor/samsung/gprimeltexx/proprietary/lib/hw/nfc_nci.msm8916.so:system/lib/hw/nfc_nci.msm8916.so \
-    vendor/samsung/gprimeltexx/proprietary/lib/hw/sensors.vendor.msm8916.so:system/lib/hw/sensors.vendor.msm8916.so \
+    vendor/samsung/gprimeltexx/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \
+    vendor/samsung/gprimeltexx/proprietary/vendor/lib/hw/nfc_nci.msm8916.so:system/vendor/lib/hw/nfc_nci.msm8916.so \
+    vendor/samsung/gprimeltexx/proprietary/vendor/lib/hw/sensors.vendor.msm8916.so:system/vendor/lib/hw/sensors.vendor.msm8916.so \
     vendor/samsung/gprimeltexx/proprietary/lib/libAl_Awb.so:system/lib/libAl_Awb.so \
     vendor/samsung/gprimeltexx/proprietary/lib/libAl_Awb_Sp.so:system/lib/libAl_Awb_Sp.so \
     vendor/samsung/gprimeltexx/proprietary/lib/libaec_algo_front.so:system/lib/libaec_algo_front.so \
