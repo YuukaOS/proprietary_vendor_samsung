@@ -88,8 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
-    vendor/samsung/fortuna3g/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
-    vendor/samsung/fortuna3g/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/samsung/fortuna3g/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
